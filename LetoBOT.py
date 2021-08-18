@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 chat_id = 790886004
-TOKEN = '1959827955:AAGyaZ8JH8ICuhTLz1bN9kqAy9odxZhAM1o'
+TOKEN = '0001959827955:AAGyaZ8JH8ICuhTLz1bN9kqAy9odxZhAM1o'
 
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
