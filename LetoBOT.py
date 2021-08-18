@@ -18,7 +18,7 @@ bot.send_message(chat_id, 'Если вы готовы начать, нажмит
 # Создаём список показаний по квартирам,  и счётчик добавления значения для квартиры
 values_list_day = ['0'] 
 values_list_night = ['0']
-meter_value = []
+meter_value = ['0']
 save_counter = 1
 # Временное хранилище для сообщений
 message_temp_str = ''
